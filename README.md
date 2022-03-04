@@ -58,7 +58,7 @@ void setup() {
 ```mermaid
 classDiagram
 Class01 <|-- AveryLongClass : Cool
-Class03 *-- Class04
+danni2 *-- Class04
 Class05 o-- Class06
 Class07 .. Class08
 Class09 --> C2 : Where am i?
