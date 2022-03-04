@@ -9,7 +9,7 @@ prufugeymsla fyrir skolann
 1. [mynd og annað](#linkar-kóði-og-rest)
 
 ## Tilvísun 
-> hér er tilvísun í eitthvað shit
+> hér er tilvísun í eitthvað
 
 ## Listar
 
@@ -51,7 +51,7 @@ void setup() {
 ```
 
 
-<!-- **feitletraður \*texti** -->
+**feitletraður \*texti** 
 
 *skáletrað*
 
