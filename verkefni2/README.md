@@ -21,3 +21,6 @@ Við áttum að búa til logo sem væri svo notað til að leiserskera á við.
 
 Þetta er SVG kassin
 ![](kassidanielorn.svg)
+
+þetta er mynd af alvöru kassanum með arduinoinu
+![](IMG_20220325_121847.jpg)
